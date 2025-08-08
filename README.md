@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate C programmer and software engineer</h3>
 
-- 🔭 I’m a target="_blank" href="https://www.42prague.com/en/">42-Heilbron</a>
-- 🔭 I’m currently studying at CTU **Electronics And Communication**
-
-[42 Prague Website](https://42prague.cz)  
-[CVUT Website](https://www.cvut.cz)
+- 🔭 [42 Prague Website](https://42prague.cz) 
+- 🔭 I’m currently studying at CTU **Electronics And Communication** [CVUT Website](https://www.cvut.cz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
