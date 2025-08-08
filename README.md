@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate C programmer and software engineer</h3>
 
-- 🔭 I’m currently working on 42 projects **philos**
+- 🔭 I’m a target="_blank" href="https://www.42prague.com/en/">42-Heilbron</a>
 - 🔭 I’m currently studying at CTU **Electronics And Communication**
 
 <h3 align="left">Connect with me:</h3>
