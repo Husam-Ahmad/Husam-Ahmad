@@ -3,6 +3,7 @@
 
 - 🔭 [42Prague](https://42prague.cz) 
 - 🔭 I’m currently studying at [CVUT](https://www.cvut.cz) **Electronics And Communication** 
+- 🇸🇦🇬🇧🇨🇿 Contact me in Arabic, English, or Czech
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
